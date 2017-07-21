@@ -1,0 +1,19 @@
+{
+    "name": "musazhou/aliyun-php-sdk-sts",
+    "description": "aliyun sts composer support",
+    "type": "library",
+    "require": {
+        "royfj/aliyun-php-sdk-core": "^0.2.0"
+    },
+    "authors": [
+        {
+            "name": "Musa Zhou",
+            "email": "musazhou@gmail.com"
+        }
+    ],
+    "autoload": {
+	"psr-4": {
+		"Sts\\": "Sts"
+	}
+    },
+}
