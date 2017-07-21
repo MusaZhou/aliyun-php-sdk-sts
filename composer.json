@@ -2,6 +2,7 @@
     "name": "musazhou/aliyun-php-sdk-sts",
     "description": "aliyun sts composer support",
     "type": "library",
+    "license": "MIT",
     "require": {
         "royfj/aliyun-php-sdk-core": "^0.2.0"
     },
